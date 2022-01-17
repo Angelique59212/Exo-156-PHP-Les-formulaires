@@ -8,6 +8,7 @@
     <title>Mini Projet</title>
 </head>
 <body>
+    <h1>Formulaire</h1>
     <form action="form.php" method="get">
         <label for="firstName"></label>
         <input type="text" id="firstName" name="firstName" placeholder="Votre prénom">
